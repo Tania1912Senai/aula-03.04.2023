@@ -47,6 +47,6 @@ console.WriteLine($"o resultado da divisão é {resultado}");}
 break;   
                             
 default:
-console.WriteLine($"A operacaomatematica informada nao e suportada pela nossa calculadora");
+console.WriteLine($"a operacaomatematica informada nao e suportada pela nossa calculadora");
 break;                           
 
