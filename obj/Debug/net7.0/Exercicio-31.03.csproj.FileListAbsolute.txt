@@ -1,0 +1,15 @@
+C:\Users\1185849874\Desktop\aula-03.04.2023\bin\Debug\net7.0\Exercicio-31.03.exe
+C:\Users\1185849874\Desktop\aula-03.04.2023\bin\Debug\net7.0\Exercicio-31.03.deps.json
+C:\Users\1185849874\Desktop\aula-03.04.2023\bin\Debug\net7.0\Exercicio-31.03.runtimeconfig.json
+C:\Users\1185849874\Desktop\aula-03.04.2023\bin\Debug\net7.0\Exercicio-31.03.dll
+C:\Users\1185849874\Desktop\aula-03.04.2023\bin\Debug\net7.0\Exercicio-31.03.pdb
+C:\Users\1185849874\Desktop\aula-03.04.2023\obj\Debug\net7.0\Exercicio-31.03.csproj.AssemblyReference.cache
+C:\Users\1185849874\Desktop\aula-03.04.2023\obj\Debug\net7.0\Exercicio-31.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1185849874\Desktop\aula-03.04.2023\obj\Debug\net7.0\Exercicio-31.03.AssemblyInfoInputs.cache
+C:\Users\1185849874\Desktop\aula-03.04.2023\obj\Debug\net7.0\Exercicio-31.03.AssemblyInfo.cs
+C:\Users\1185849874\Desktop\aula-03.04.2023\obj\Debug\net7.0\Exercicio-31.03.csproj.CoreCompileInputs.cache
+C:\Users\1185849874\Desktop\aula-03.04.2023\obj\Debug\net7.0\Exercicio-31.03.dll
+C:\Users\1185849874\Desktop\aula-03.04.2023\obj\Debug\net7.0\refint\Exercicio-31.03.dll
+C:\Users\1185849874\Desktop\aula-03.04.2023\obj\Debug\net7.0\Exercicio-31.03.pdb
+C:\Users\1185849874\Desktop\aula-03.04.2023\obj\Debug\net7.0\Exercicio-31.03.genruntimeconfig.cache
+C:\Users\1185849874\Desktop\aula-03.04.2023\obj\Debug\net7.0\ref\Exercicio-31.03.dll
